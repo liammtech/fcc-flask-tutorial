@@ -1,3 +1,14 @@
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+
+table {    
+    border-collapse: collapse;
+}
+
+td, th {
+    height: 2rem;
+    width: 10rem;
+    border: 1px solid grey;
+    margin: 0;
+}
